@@ -32,6 +32,6 @@
                     "exampleData": {"name": "Skyline", "imageUrl": "", "slug": "skyline", "isPublished": true, "isLegacy": false}
                 }
             ]
-        },
+        }
     }
 }
