@@ -81,7 +81,7 @@ function App() {
           </div>
 
           <div className="container">
-            <h3>Enter your js object to send:</h3>
+            <h3>Enter the js object you want to send:</h3>
             <textarea 
               cols="50" rows="10"
               onChange={(e) => {setObject(JSON.parse(e.target.value))}} 
