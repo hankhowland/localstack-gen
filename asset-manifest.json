@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/localstack-gen/static/css/main.65da9ac2.chunk.css",
-    "main.js": "/localstack-gen/static/js/main.454e930e.chunk.js",
-    "main.js.map": "/localstack-gen/static/js/main.454e930e.chunk.js.map",
+    "main.css": "/localstack-gen/static/css/main.10d383e9.chunk.css",
+    "main.js": "/localstack-gen/static/js/main.535ac4c4.chunk.js",
+    "main.js.map": "/localstack-gen/static/js/main.535ac4c4.chunk.js.map",
     "runtime-main.js": "/localstack-gen/static/js/runtime-main.9c2bcc9e.js",
     "runtime-main.js.map": "/localstack-gen/static/js/runtime-main.9c2bcc9e.js.map",
     "static/js/2.943f123c.chunk.js": "/localstack-gen/static/js/2.943f123c.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.87e79f9f.chunk.js": "/localstack-gen/static/js/3.87e79f9f.chunk.js",
     "static/js/3.87e79f9f.chunk.js.map": "/localstack-gen/static/js/3.87e79f9f.chunk.js.map",
     "index.html": "/localstack-gen/index.html",
-    "static/css/main.65da9ac2.chunk.css.map": "/localstack-gen/static/css/main.65da9ac2.chunk.css.map",
+    "static/css/main.10d383e9.chunk.css.map": "/localstack-gen/static/css/main.10d383e9.chunk.css.map",
     "static/js/2.943f123c.chunk.js.LICENSE.txt": "/localstack-gen/static/js/2.943f123c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9c2bcc9e.js",
     "static/js/2.943f123c.chunk.js",
-    "static/css/main.65da9ac2.chunk.css",
-    "static/js/main.454e930e.chunk.js"
+    "static/css/main.10d383e9.chunk.css",
+    "static/js/main.535ac4c4.chunk.js"
   ]
 }
