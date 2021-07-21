@@ -18,20 +18,14 @@
                 {
                     "name": "products.product.save",
                     "detailField": "product",
-                    "exampleData": "{category: 'Water Heating-Res-Electric-Tank Type', description: '50g SHORT E 6.0KW 2x 6.0/6.0-CU 240V-1ph 60Hz 2-WI MG-1 A 150PSI', id: 'SIBI-AOSmith-100237699',images: [{altText: 'AO Smith Waterheater',height: 5,isPrimary: true,url: 'https://images.sibipro.com/AOSmith/WaterHeater.png',width: 5}],measurements: [],manufacturer: 'AOSmith',msrp: 31800,sku: '100234076',title: 'Water Heater'}"
+                    "exampleData": { "category": "Water Heating-Res-Electric-Tank Type", "description": "50g SHORT E 6.0KW 2x 6.0/6.0-CU 240V-1ph 60Hz 2-WI MG-1 A 150PSI", "id": "SIBI-AOSmith-100237699", "images": [ { "altText": "AO Smith Waterheater", "height": 5, "isPrimary": true, "url": "https://images.sibipro.com/AOSmith/WaterHeater.png", "width": 5 } ], "measurements": [], "manufacturer": "AOSmith", "msrp": 31800, "sku": "100234076", "title": "Water Heater" }
                 }
             ]
         },
         "Orders Service": {
             "queueURL": "http://localhost:4568/000000000000/orders-services_queue",
             "endpoint": "http://localhost:4568",
-            "detailTypes": [
-                {
-                    "name": "shops.shop.create",
-                    "detailField": "shop",
-                    "exampleData": {"name": "Skyline", "imageUrl": "", "slug": "skyline", "isPublished": true, "isLegacy": false}
-                }
-            ]
+            "detailTypes": []
         }
     }
 }
